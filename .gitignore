@@ -1,0 +1,16 @@
+**/*.csv
+**/*.pt
+**/*.jpg
+**/*.jpeg
+**/*.gif
+dump.rdb
+redis_data
+*.npy
+test*
+*.xz
+**/*.tiff
+**/*.avif
+**/*.webp
+**/*.onnx
+.DS_Store
+**/*.tar.gz
